@@ -8,6 +8,14 @@ It's built as a <a href="http://leafletjs.com/">Leaflet</a> plugin.
 
 <p>Latest version of the library in the <code>src</code> directory</p>
 
+<p>
+<img src="https://github.com/gisfile/leaflet.gisfile.js/blob/master/img/yeldmap.jpg" style="max-width:100%;">
+<!--
+<a href="http://" target="_blank">
+</a>
+-->
+</p>
+
 <h2>Usage</h2>
 
 <div class="highlight highlight-html">
